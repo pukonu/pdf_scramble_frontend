@@ -3,8 +3,8 @@ export const PROTOCOL = {
     developmentPort: 80,
     productionPort: 80,
     // developmentServerName: "prologicmacbookpro15.local",
-    developmentServerName: "vector.postprincipal.com",
-    productionServerName: "vector.postprincipal.com",
+    developmentServerName: "vectorai.postprincipal.com",
+    productionServerName: "vectorai.postprincipal.com",
 };
 
 export const API = {
